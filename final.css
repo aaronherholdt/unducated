@@ -1443,6 +1443,11 @@ html {
   object-fit: contain;
 }
 
+  .swiper-button-next::after, .swiper-rtl .swiper-button-prev::after {
+  color: red;
+}
+
+
 .reviews-main {
   margin-bottom: 20px;
 }
